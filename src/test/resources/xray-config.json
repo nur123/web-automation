@@ -1,0 +1,19 @@
+
+{
+  "fields": {
+    "project": {
+      "id": "10027",
+      "key": "WEBAUTO"
+    },
+    "summary": "Test execution for Test Plan WEBAUTO-370",
+    "issuetype": {
+      "id": "10043"
+    },
+    "components" : [
+    ]
+  },
+  "xrayFields": {
+      "testPlanKey": "WEBAUTO-370",
+    "environments": []
+  }
+}
